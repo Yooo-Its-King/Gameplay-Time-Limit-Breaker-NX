@@ -20,6 +20,6 @@
 
 🚀 Installation
 
-Ensure your Switch is running Atmosphère CFW via Hekate + Nyx
+- Ensure your Switch is running Atmosphère CFW via Hekate + Nyx
 
-Without the quotation marks - place the .ips patch file in: "/atmosphere/exefs_patches/"
+- Without the quotation marks; place the .ips patch file in: "/atmosphere/exefs_patches/"
