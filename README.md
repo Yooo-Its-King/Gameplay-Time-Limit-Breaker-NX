@@ -17,3 +17,9 @@
 - 🧩 Compatible with Atmosphère-based setups  
 - 📦 Lightweight patch via IPS file  
 - 🔒 No proprietary Nintendo assets included
+
+🚀 Installation
+
+Ensure your Switch is running Atmosphère CFW via Hekate + Nyx
+
+Without the quotation marks - place the .ips patch file in: "/atmosphere/exefs_patches/"
