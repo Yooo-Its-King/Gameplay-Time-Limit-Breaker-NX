@@ -1,6 +1,6 @@
 # 🎮 Gameplay-Time-Limit-Breaker-NX
 
-![Mod Banner](1.%20Hekate's%20Official%20Banner/1.%20Hekate's%20Official%20Banner.png)
+![Mod Banner](1.%20Sic%20Parvis%20Magna%20Banner/Sic%20Parvis%20Magna%20Banner.png)
 
 
 
